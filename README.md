@@ -53,8 +53,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 ## Usage
 
-Open the terminal and run node index.js  and hit the enter key. 
-The user will be prompted to anwser the Team profile questions. Once completed the user selecs the option "I am done editing my team", the html file is dynamically generated and will be locating in the dist folder. 
+
 
 ## Technologies Used
 
