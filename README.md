@@ -86,7 +86,7 @@ To automatically install dev dependencies, run "npm i"
 
 
 ## Deployed Application Links
-
+* Heroku link:  https://git.heroku.com/awesome-note-taker-5000.git
 
 ## Questions
   Please e-mail me if you have any questions about this App
