@@ -59,21 +59,20 @@ Download and install node.js.
 
 To automatically install dev dependencies, run "npm i" 
 
-
 ## Technologies Used
 
-#### -Html
-#### -Node.js
-#### -Express.js
-#### -Bootstrap
-#### -Font awesome 
-#### -CSS 
+#### Html
+#### Node.js
+#### Express.js
+#### Bootstrap
+#### Font awesome 
+#### CSS 
 
 ## Packages
 
-#### -Package.json
-#### -npm express
-#### -npm uuid
+#### Package.json
+#### npm express
+#### npm uuid
 
 
 
