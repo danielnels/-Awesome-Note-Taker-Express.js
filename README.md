@@ -1,4 +1,4 @@
-# -Awesome-Note-Taker-Express.js
+# Awesome-Note-Taker-Express.js
 
  ## Description
 An application called  Awesome Note Taker that can be used to write and save notes.
@@ -79,6 +79,7 @@ The user will be prompted to anwser the Team profile questions. Once completed t
 
 ## App image
 
+![Note-taker](https://user-images.githubusercontent.com/94213022/156104569-2f2e7d79-6675-47f3-84e3-9240b4f25ff1.png)
 
 
 ## Deployed Application
