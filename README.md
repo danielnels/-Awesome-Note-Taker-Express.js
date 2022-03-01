@@ -11,7 +11,7 @@ An application called  Awesome Note Taker that can be used to write and save not
   * [Acceptance Criteria](#acceptance-criteria )
   * [Walkthrough Video](#walkthrough-video)
   * [App image ](#app-image)
-  * [Deployed Application ](#deployed-application)
+  * [Deployed Application Links](#deployed-application-links)
   * [Usage](#usage)
   * [Technologies Used](#technologies-used)
   * [Packages](#packages)
@@ -85,7 +85,7 @@ To automatically install dev dependencies, run "npm i"
 ![Note-taker](https://user-images.githubusercontent.com/94213022/156104569-2f2e7d79-6675-47f3-84e3-9240b4f25ff1.png)
 
 
-## Deployed Application
+## Deployed Application Links
 
 
 ## Questions
